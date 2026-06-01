@@ -1,15 +1,15 @@
 ---
-layout: home
+#Trabalho 
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: Desenvolvimento de Sistemas I
+  text: Documentação de visão de software
+  tagline: Alunos- Arthur Brenan di Bosing, Davi Abel Tiecher Carvalho 
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: Introdução
+      link: /introducao.md
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Desenvolvimento
+      link: /desenvolvimento.md
 ---
