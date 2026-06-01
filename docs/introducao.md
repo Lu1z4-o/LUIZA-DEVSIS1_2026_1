@@ -1,6 +1,6 @@
   
 
-1\. Introdução
+**1\. Introdução**
 
 **Minimundo: Sistema de Gestão de Escola de Idiomas** 
 
@@ -65,25 +65,25 @@ O acesso dos sócios, além de possibilitar as mesmas funções do acesso admini
 
   
 
-1.1 Objetivo
+**1.1 Objetivo**
 
 O objetivo do projeto é desenvolver um sistema de gestão de escola de idiomas, permitindo a centralização da gestão da instituição de ensino, englobando a gestão financeira, controlando pagamentos de mensalidades, registros de insumos e pagamentos de funcionários, além da gestão das aulas ministradas e fornecimento de material didático digital aos alunos. 
 
   
 
-1.2 Escopo
+**1.2 Escopo**
 
 Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades fornecer aos alunos uma plataforma que centralize a gestão acadêmica da escola, facilitando a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
 
   
 
-1.3 Definições, Acrônimos e Abreviações
+**1.3 Definições, Acrônimos e Abreviações**
 
 -   **PIX:** Meio de pagamento eletrônico instantâneo criado pelo Banco Central do Brasil.
     
 -   **Stakeholders:** Partes interessadas. Qualquer pessoa, grupo ou organização que possa afetar ou ser afetado pelas atividades do projeto (exemplo: alunos, professores, administradores e sócios).
     
 
-1.4 Público-alvo
+**1.4 Público-alvo**
 
 Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do software Sistema de Gestão de Escola de Idiomas Vision. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
