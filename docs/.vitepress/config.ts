@@ -8,7 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: 'Página inicial', link: '/index' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -26,7 +26,9 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: 'Página inicial', link: '/index'},
+          {text: 'Introdução', link: '/introducao'},
+          {text: 'Desenvolvimento', link: '/desenvolvimento' },
           // ...
         ],
       },
