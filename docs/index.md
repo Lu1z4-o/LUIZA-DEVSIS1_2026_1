@@ -8,7 +8,8 @@
 - Alunos: Arthur Brenan di Bosing, Davi Abel Tiecher Carvalho, Luiza de Oliveira, Vitória Luísa Galera Roversi.
 
 <div style="text-align: center;">
-<a href="https://drive.google.com/drive/folders/1vC5OEXs2uW3JMHmhDg_kwDdSF7SrOYbv?usp=sharing" style="display: inline-block; background-color: white; color: #C11515; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px; margin-right: 15px;">
+<a href="https://drive.google.com/drive/folders/1vC5OEXs2uW3JMHmhDg_kwDdSF7SrOYbv?usp=sharing" style="display: inline-block; background-color: #C11515; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px; margin-right: 15px;">
 Drive do projeto
 </a>
 </div>
+
