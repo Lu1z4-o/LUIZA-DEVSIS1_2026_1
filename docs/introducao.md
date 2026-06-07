@@ -1,4 +1,4 @@
-<a href="/index" style="display: inline-block; background-color: white; color: black; text-decoration: none; font-weight: bold;">
+<a href="/index" style="display: inline-block; color: black; text-decoration: none; font-weight: bold;">
  Voltar para a página inicial
 </a>
 <br>
