@@ -1,4 +1,8 @@
-  # **1\. Introdução**
+<a href="/index" style="display: inline-block; background-color: white; color: black; text-decoration: none; font-weight: bold; margin-top: 15px;">
+ Voltar para a página inicial
+</a>
+
+ # **1\. Introdução**
 
 ## **Minimundo: Sistema de Gestão de Escola de Idiomas** 
 

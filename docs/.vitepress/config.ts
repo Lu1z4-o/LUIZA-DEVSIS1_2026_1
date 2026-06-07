@@ -20,7 +20,7 @@ export default defineConfig({
       // },
 
       // ...
-    ],
+    ], 
 
     sidebar: [
       {
@@ -31,5 +31,11 @@ export default defineConfig({
         ],
       },
     ],
+
+ 
+        docFooter: {
+          prev: false,
+          next: false
+        }
   },
 });
