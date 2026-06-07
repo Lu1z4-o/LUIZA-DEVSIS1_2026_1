@@ -1,6 +1,8 @@
-<a href="/index" style="display: inline-block; background-color: white; color: black; text-decoration: none; font-weight: bold; margin-top: 15px;">
+<a href="/index" style="display: inline-block; background-color: white; color: black; text-decoration: none; font-weight: bold;">
  Voltar para a página inicial
 </a>
+<br>
+<br>
 
  # **1\. Introdução**
 
