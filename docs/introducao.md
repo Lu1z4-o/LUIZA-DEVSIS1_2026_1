@@ -4,7 +4,7 @@
 <br>
 <br>
 
- # **1\. Introdução**
+<h1 style="color: #C11515; font-weight: bold;">1. Introdução</h1>
 
 ## **Minimundo: Sistema de Gestão de Escola de Idiomas** 
 
