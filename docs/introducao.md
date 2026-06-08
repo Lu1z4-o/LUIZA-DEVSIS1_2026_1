@@ -77,13 +77,11 @@ O objetivo do projeto é desenvolver um sistema de gestão de escola de idiomas,
 
 ### **1.2 Escopo**
 
-Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades fornecer aos alunos uma plataforma que centralize a gestão acadêmica da escola, facilitando a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
+Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades gestão acadêmica da escola, facilitando a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
 
   
 
 ### **1.3 Definições, Acrônimos e Abreviações**
-
--   **PIX:** Meio de pagamento eletrônico instantâneo criado pelo Banco Central do Brasil.
     
 -   **Stakeholders:** Partes interessadas. Qualquer pessoa, grupo ou organização que possa afetar ou ser afetado pelas atividades do projeto (exemplo: alunos, professores, administradores e sócios).
     

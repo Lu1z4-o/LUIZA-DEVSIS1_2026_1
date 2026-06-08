@@ -1,8 +1,8 @@
 <img src="./imagens_diversas/Logo vision.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
 
 **Desenvolvimento de Sistemas 01**  
-- Documento de visão de software  
-- Nome do projeto: Escola de Idiomas  
+- Documento de Visão de Software  
+- Nome do projeto: Escola de Idiomas Vision
 - Versão: 1.0  
 - Data: 08/06/2026  
 - Alunos: Arthur Brenan di Bosing, Davi Abel Tiecher Carvalho, Luiza de Oliveira, Vitória Luísa Galera Roversi.
