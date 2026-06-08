@@ -77,7 +77,7 @@ O objetivo do projeto é desenvolver um sistema de gestão de escola de idiomas,
 
 ### **1.2 Escopo**
 
-Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades gestão acadêmica da escola, facilitando a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
+Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades gestão acadêmica da escola, facilitar a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
 
   
 
@@ -88,7 +88,7 @@ Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** qu
 
 ### **1.4 Público-alvo**
 
-Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do software Sistema de Gestão de Escola de Idiomas Vision. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
+Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do Sistema de Gestão de Escola de Idiomas Vision. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
 
 <a href="/desenvolvimento" style="display: inline-block; background-color: #C11515; color: white; padding: 10px 20px;  border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px;">
  Desenvolvimento
