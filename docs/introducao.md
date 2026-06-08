@@ -89,8 +89,6 @@ Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** qu
     
 -   **RPM:** _Requests Per Minute_ (Requisições Por Minuto). Métrica que indica o volume de chamadas enviadas para o servidor em um minuto.
     
--   **GB:** Gigabyte. Unidade de medida de armazenamento de dados (equivalente a 1.024 Megabytes).
-    
 -   **Auto-scaling:** Dimensionamento automático. Recurso de computação em nuvem que ajusta automaticamente a capacidade de armazenamento ou processamento com base na demanda.
     
 -   **RAM:** _Random Access Memory_ (Memória de Acesso Aleatório). Memória volátil utilizada para o armazenamento temporário de dados em execução pelo processador.
