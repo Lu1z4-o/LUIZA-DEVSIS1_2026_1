@@ -1,7 +1,6 @@
+# 9. Custos e Orçamento
 
-## 9. Custos e Orçamento
-
-### Orçamento de TI 
+## Orçamento de TI 
 <table>
   <thead>
     <tr>

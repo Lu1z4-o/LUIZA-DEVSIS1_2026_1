@@ -69,19 +69,19 @@ O acesso dos sócios, além de possibilitar as mesmas funções do acesso admini
 
   
 
-### **1.1 Objetivo**
+## **1.1 Objetivo**
 
 O objetivo do projeto é desenvolver um sistema de gestão de escola de idiomas, permitindo a centralização da gestão da instituição de ensino, englobando a gestão financeira, controlando pagamentos de mensalidades, registros de insumos e pagamentos de funcionários, além da gestão das aulas ministradas e fornecimento de material didático digital aos alunos. 
 
   
 
-### **1.2 Escopo**
+## **1.2 Escopo**
 
 Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** que terá como principais finalidades gestão acadêmica da escola, facilitar a comunicação entre alunos, professores e administradores, além de fornecer aos estudantes uma plataforma digital para seus estudos. 
 
   
 
-### **1.3 Definições, Acrônimos e Abreviações**
+## **1.3 Definições, Acrônimos e Abreviações**
     
 -   **Stakeholders:** Partes interessadas. Qualquer pessoa, grupo ou organização que possa afetar ou ser afetado pelas atividades do projeto (exemplo: alunos, professores, administradores e sócios).
 
@@ -98,7 +98,7 @@ Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** qu
 -   **Nó (Node):** Em infraestrutura/banco de dados, refere-se a um servidor ou instância individual que faz parte de um sistema distribuído (cluster).
     
 
-### **1.4 Público-alvo**
+## **1.4 Público-alvo**
 
 Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do Sistema de Gestão de Escola de Idiomas Vision. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
 

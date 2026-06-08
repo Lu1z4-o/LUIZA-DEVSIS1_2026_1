@@ -1,5 +1,4 @@
-
-## 8\. Riscos e Mitigação
+# 8\. Riscos e Mitigação
 
 Entre os principais riscos do projeto está a **dificuldade de angariar alunos devido à competitividade do setor de cursos de idiomas**, somada à falta de reconhecimento do negócio no mercado. Para mitigar a problemática, a Vision busca investir em materiais didáticos de qualidade reconhecida no meio de publicações de idiomas, além de diferenciais metodológicos nas aulas, por meio do sistema a ser implementado e dos eventos promovidos, assim estabelecendo um diferencial de relacionamento com seus alunos. 
 

@@ -1,4 +1,4 @@
-## 6. Protótipo de telas 
+# 6. Protótipo de telas 
 <img src="./figma/Desktop - 1.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 <img src="./figma/Desktop - 2.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 <img src="./figma/Desktop - 3.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">

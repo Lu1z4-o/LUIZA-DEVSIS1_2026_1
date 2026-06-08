@@ -1,4 +1,4 @@
-## 4. Diagrama de Caso de Uso
+# 4. Diagrama de Caso de Uso
 <img src="./imagens_diversas/Casos_de_uso_Vision.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 <div style="text-align: center; width: 100%;">
 <a href="https://drive.google.com/file/d/1emnoF4LvVgUk0F7hGSyu3LprZ97KdqcM/view?usp=sharing" style="display: inline-block; background-color: white; color: #C11515; padding: 8px 12px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px;">Link do diagrama de casos de uso
@@ -6,7 +6,7 @@
 </div>
 
 
-### 4.1 Descrição de caso de uso
+## 4.1 Descrição de caso de uso
 <table>
         <tr>
             <th colspan="2">Consultar informações institucionais</th>

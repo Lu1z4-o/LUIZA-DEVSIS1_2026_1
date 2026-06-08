@@ -1,5 +1,4 @@
-
-## 7. Cronograma e entrega 
+# 7. Cronograma e entrega 
 <table>
   <thead>
     <tr>

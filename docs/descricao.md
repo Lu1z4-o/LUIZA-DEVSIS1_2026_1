@@ -3,9 +3,9 @@
 </a>
 <h1 style="color: #C11515; font-weight: bold;">Descrição Geral</h1>
 
-## **2\. Descrição do Projeto**
+# **2\. Descrição do Projeto**
 
-### **2.1 Visão Geral do Projeto**
+## **2.1 Visão Geral do Projeto**
 
 O objetivo deste documento é fornecer uma visão geral do projeto Sistema de Gestão de Escola de Idiomas Vision. Ele descreve a finalidade do projeto, os principais stakeholders envolvidos, os requisitos principais, os diagramas de caso de uso, diagrama de classes e protótipos de possíveis telas para o sistema. 
 
@@ -19,7 +19,7 @@ O Sistema de Gestão de Escola de Idiomas Vision será responsável por fornecer
 </a>
 </div>
 
-### **2.2 Stakeholders**
+## **2.2 Stakeholders**
 
 -   **Alunos:** usuários a quem os serviços da empresa, que consistem em aulas de idiomas, são prestados. 
     
