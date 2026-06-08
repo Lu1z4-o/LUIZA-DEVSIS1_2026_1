@@ -84,6 +84,20 @@ Esse projeto visa desenvolver um **Sistema de Gestão de Escola de Idiomas,** qu
 ### **1.3 Definições, Acrônimos e Abreviações**
     
 -   **Stakeholders:** Partes interessadas. Qualquer pessoa, grupo ou organização que possa afetar ou ser afetado pelas atividades do projeto (exemplo: alunos, professores, administradores e sócios).
+
+-   **API:** _Application Programming Interface_ (Interface de Programação de Aplicações). Conjunto de rotinas e padrões que permitem a comunicação entre diferentes sistemas ou módulos de software.
+    
+-   **RPM:** _Requests Per Minute_ (Requisições Por Minuto). Métrica que indica o volume de chamadas enviadas para o servidor em um minuto.
+    
+-   **GB:** Gigabyte. Unidade de medida de armazenamento de dados (equivalente a 1.024 Megabytes).
+    
+-   **Auto-scaling:** Dimensionamento automático. Recurso de computação em nuvem que ajusta automaticamente a capacidade de armazenamento ou processamento com base na demanda.
+    
+-   **RAM:** _Random Access Memory_ (Memória de Acesso Aleatório). Memória volátil utilizada para o armazenamento temporário de dados em execução pelo processador.
+    
+-   **x64:** Arquitetura de processador de 64 bits, padrão para a maioria dos computadores modernos.
+    
+-   **Nó (Node):** Em infraestrutura/banco de dados, refere-se a um servidor ou instância individual que faz parte de um sistema distribuído (cluster).
     
 
 ### **1.4 Público-alvo**
