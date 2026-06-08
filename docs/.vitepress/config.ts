@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'VitePress',
+  title: 'Escola de Idiomas Vision',
   description: 'Vite & Vue powered static site generator.',
 
   themeConfig: {
