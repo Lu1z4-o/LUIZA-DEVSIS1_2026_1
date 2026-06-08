@@ -1,5 +1,7 @@
 # 9. Custos e Orçamento
-
+### Legenda: 
+- CAPEX: investimentos em bens de capital a longo prazo.  
+- OPEX: despesas operaciomais recorrentes do dia a dia. 
 ## Orçamento de TI 
 <table>
   <thead>
@@ -58,7 +60,7 @@
   </tbody>
 </table>
 
-### Custos de estrutura e operação 
+## Custos de estrutura e operação 
 <table>
   <thead>
     <tr>
